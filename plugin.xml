@@ -27,13 +27,10 @@
         version="0.8.3">
 
     <name>EmailComposer</name>
-
-    <description>
-        Provides access to the standard interface that manages
-        the editing and sending an email message
-    </description>
-
-    <license>Apache 2.0</license>
+    <description>Provides access to the standard interface that manages the editing and sending an email message.</description>
+    <author>Dusan Galik</author>
+    <repo>https://github.com/dusag/EmailComposer.git</repo>
+    <issue>https://github.com/dusag/EmailComposer/issues</issue>
 
     <engines>
         <engine name="cordova" version=">=3.0.0" />
